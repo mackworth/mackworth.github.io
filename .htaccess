@@ -1,0 +1,2 @@
+Redirect 302 /index.html /pages/index.html
+Redirect 302 index.html pages/index.html
