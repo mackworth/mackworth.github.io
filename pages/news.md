@@ -27,7 +27,7 @@ Welcome to Ultimate Stopwatch version 2.8.
 * Volume during Race to create an unassigned Lap (or Stop)
 </div>
 <div class="span6" markdown="1">
-#### New features in 2.8.0:
+#### New features in 2.8:
 
 * Increased spacing between watches
 * Scale/crop circular photos with higher resolution
@@ -35,6 +35,7 @@ Welcome to Ultimate Stopwatch version 2.8.
 * Edit a race's Date and Location
 * Works on Macs as well
 * Restructured Preferences with help text
+* New platform for FAQs and help
 </div>
 </div>
 ##### We hope 2.8 works well for you.  If it does, there's nothing that'll say it better than a good review on iTunes (see Watches' menu). If not, let us know how we can help at our support site (also in Watches menu!).
