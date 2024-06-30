@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <title>{{ page.title }}</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content={{ page.description }}>
+      <meta name="author" content="Hugh Mackworth">
+      {% seo %}
+      <!-- Le styles -->
+      <link href="../assets/css/bootstrap.css" rel="stylesheet">
+      <link href="../assets/css/myCSS.css" rel="stylesheet">
+      <link href="../assets/css/bootstrap-responsive.css" rel="stylesheet">
+      <!-- Fav and touch icons -->
+    {% include favicons.html %}
+   </head>
+   <body>
+      <div class="container-narrow">
+         {% include navigation.html %}
+         {{ content }}
+         {% include footer.html %}
+      </div>
+      <!-- Le javascript ->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <script src="../assets/js/jquery.js"></script>
+      <script src="../assets/js/bootstrap.js"></script>
+   </body>
+</html>

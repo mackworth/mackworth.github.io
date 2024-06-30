@@ -1,0 +1,10 @@
+- name: Home
+  link: /pages/
+- name: About
+  link: /pages/about.html
+- name: News
+  link: /pages/news.html
+- name: Support
+  link: https://pinetreesoftware-help.freshdesk.com/support/home
+- name: Privacy
+  link: /pages/Privacy.html

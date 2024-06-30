@@ -1,0 +1,9 @@
+<div class="masthead">
+    <ul class="nav nav-pills pull-right">
+    {% for item in site.data.navigation %}
+       <li {% if page.url == item.link %}class="active" {% endif %}><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% endfor %}
+    </ul>
+   <h3 class="muted">{{ page.masthead }}</h3>
+</div>
+<hr>
