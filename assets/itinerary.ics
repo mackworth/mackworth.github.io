@@ -4,224 +4,278 @@ PRODID:-//MapItinerary CLI//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-stay-x7u42zck@pinetreesw.com
-SUMMARY:Ho_Chi_Minh_City
-DESCRIPTION:Stay_at_the_New_World_Saigon_Hotel_with_cultural_shows\,_city_tours\,_and_a_visit_to_the_Cu_Chi_Tunnels.
-LOCATION:New_World_Saigon_Hotel
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-stay-fe9r4rfm@pinetreesw.com
+SUMMARY:Ho Chi Minh City
+DESCRIPTION:3 nights at New World Saigon Hotel exploring historic sites\, markets\, and the Cu Chi Tunnels.
+LOCATION:New World Saigon Hotel
 DTSTART;VALUE=DATE:20260202
 DTEND;VALUE=DATE:20260205
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-0-0-ej8l4xxp@pinetreesw.com
-SUMMARY:Ho_Chi_Minh_City_Arrival_and_Check-in
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T020000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260202T030000
-DESCRIPTION:Flight_arrivals_in_Ho_Chi_Minh_City._VIP_Fast-track_pick-up_at_Tan_Son_Nhat_Airport_by_Vietravel_Agent_and_transport_to_New_World_Saigon_Hotel._Hotel_check-in\;_Relax_and_dinner_on_your_own.
-LOCATION:New_World_Saigon_Hotel
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-0-0-8uozyozs@pinetreesw.com
+SUMMARY:Arrival and Hotel Check-in
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T140000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260202T150000
+DESCRIPTION:Flight arrivals at Tan Son Nhat Airport followed by VIP Fast-track pick-up and transport to New World Saigon Hotel. Confirm booking: SGN-FT2-32SGN16-MS.THUANH.USA-020226.
+LOCATION:New World Saigon Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-0-1-18uyocal@pinetreesw.com
-SUMMARY:A_O_Show_Meeting_&_Transfer
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T051500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260202T060000
-DESCRIPTION:For_group_attending_the_A_O_Show:_Meet_at_the_lobby\,_transfer_to_Saigon_Opera_House_by_bus.
-LOCATION:New_World_Saigon_Hotel
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-0-1-8engh4s0@pinetreesw.com
+SUMMARY:Transfer to Saigon Opera House
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T171500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260202T180000
+DESCRIPTION:Group attending the A O Show meets at the lobby for transfer by bus\, escorted by Tom tour guide.
+LOCATION:New World Saigon Hotel Lobby
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-0-2-pdyfbrra@pinetreesw.com
-SUMMARY:A_O_Show
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T060000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260202T070000
-DESCRIPTION:A_O_Show_at_Saigon_Opera_House.
-LOCATION:Saigon_Opera_House
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-0-2-3zjf8he3@pinetreesw.com
+SUMMARY:A O Show at Saigon Opera House
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T180000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260202T191500
+DESCRIPTION:A O Show at Saigon Opera House. Reservation under Walt’s name.
+LOCATION:Saigon Opera House
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-0-3-6dbeifrn@pinetreesw.com
-SUMMARY:Optional_Dinner_at_NINETEEN_Restaurant
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T071500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260202T081500
-DESCRIPTION:Optional_dinner_at_NINETEEN_Restaurant_at_Caravelle_Saigon_Hotel.
-LOCATION:Caravelle_Saigon_Hotel
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-0-3-v3ebng8g@pinetreesw.com
+SUMMARY:Optional Dinner at NINETEEN Restaurant
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260202T191500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260202T201500
+DESCRIPTION:Optional dinner at NINETEEN Restaurant at Caravelle Saigon Hotel. Reservation under Chris’s name.
+LOCATION:NINETEEN Restaurant at Caravelle Saigon Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-0-w7e27ma6@pinetreesw.com
-SUMMARY:Optional_Breakfast_with_Dr._Chinh
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260203T090000
-DESCRIPTION:Optional_breakfast_with_Dr._Chinh\,_Director_of_the_Institute_of_Public_Health_of_Ho_Chi_Minh_City_at_New_World_Saigon_Hotel.
-LOCATION:New_World_Saigon_Hotel
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-1-5zpshuvd@pinetreesw.com
-SUMMARY:Shopping_Tours_Departure
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T093000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260203T103000
-DESCRIPTION:Meet_at_the_hotel_lobby\;_Depart_for_shopping_tours_with_options_for_Ben_Thanh_market\,_Dung_Tailor_Shop\,_or_Byfas_Tailor_Shop.
-LOCATION:New_World_Saigon_Hotel
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-2-vlvehwfj@pinetreesw.com
-SUMMARY:Welcome_Lunch_with_Ambassador_Ted_Osius
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T120000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260203T130000
-DESCRIPTION:Welcome_lunch_with_Ambassador_Ted_Osius_at_New_World_Saigon_Hotel.
-LOCATION:New_World_Saigon_Hotel
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-3-9a1n6yb6@pinetreesw.com
-SUMMARY:Half-day_City_Tour
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T020000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260203T060000
-DESCRIPTION:Depart_for_a_half-day_city_tour:_Cho_Lon_Market_in_Chinatown_(outside)\,_Independence_Palace_(outside)\,_Saigon_Notre_Dame_Cathedral_(outside)\,_Central_Post_Office_(outside)_and_Landmark_81_SkyView.
-LOCATION:Ho_Chi_Minh_City
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-4-q9768uz9@pinetreesw.com
-SUMMARY:Dinner_Cruise_Departure
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T061500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260203T070000
-DESCRIPTION:Depart_for_dinner_on_cruise.
-LOCATION:New_World_Saigon_Hotel
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-5-bvbnd8qw@pinetreesw.com
-SUMMARY:Dinner_on_Rever_Cruise
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-0-bcw5ejxx@pinetreesw.com
+SUMMARY:Street Exercise and Breakfast
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260203T080000
-DESCRIPTION:Dinner_on_Rever_Cruise_with_Speaker_CEO_Nguyen_Le_Chon_Tam_of_Saigon_Port.
-LOCATION:Saigon_Port
+DESCRIPTION:Street exercise with local people and breakfast on your own at New World Saigon Hotel (for those not joining the Healthcare breakfast).
+LOCATION:New World Saigon Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-1-6-3funtw1u@pinetreesw.com
-SUMMARY:Visit_Bui_Vien_Street
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T103000
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-1-s9nh6nk1@pinetreesw.com
+SUMMARY:Optional Healthcare Breakfast
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T080000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T093000
+DESCRIPTION:Optional breakfast with Dr. Chinh\, Director of the Institute of Public Health. Topic: Infectious diseases and how Vietnam dealt with COVID-19. Vietnamese food served.
+LOCATION:3rd Ben Thanh Private Room\, 1st floor\, New World Saigon Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-2-ug2keqr2@pinetreesw.com
+SUMMARY:Shopping Tours
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T093000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260203T113000
-DESCRIPTION:Visit_Bui_Vien_Street_on_your_own.
-LOCATION:Bui_Vien_Street
+DESCRIPTION:Three options: 1. Ben Thanh market for traditional Ao Dai (on foot)\; 2. Dung Tailor Shop for men (on foot)\; 3. Byfas Tailor Shop for women (by car).
+LOCATION:New World Saigon Hotel Lobby
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-2-0-wy29tyfm@pinetreesw.com
-SUMMARY:Depart_for_Cu_Chi_Tunnels
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-3-e0jd6pwu@pinetreesw.com
+SUMMARY:Welcome Lunch with Ambassador Ted Osius
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T120000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T133000
+DESCRIPTION:Vietnamese food lunch and briefing on Vietnam's past and future relations with the USA. Former U.S. Ambassador Ted Osius.
+LOCATION:2nd Ben Thanh Private Room\, 1st floor\, New World Saigon Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-4-0ta85k7u@pinetreesw.com
+SUMMARY:Half-Day City Tour
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T140000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T161500
+DESCRIPTION:Depart for a tour of HCMC by bus\, including Cho Lon Market in Chinatown (outside)\, Independence Palace (outside)\, Saigon Notre Dame Cathedral (outside)\, Central Post Office (outside) and Landmark 81 SkyView.
+LOCATION:Various Locations in HCMC
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-5-5enidog9@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T161500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T170000
+DESCRIPTION:Depart from Landmark 81 to return to the hotel to freshen up.
+LOCATION:Landmark 81
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-6-fvj7hpl2@pinetreesw.com
+SUMMARY:Transfer to Dinner Cruise
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T181500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T190000
+DESCRIPTION:Meet at the lobby and depart for the dinner cruise.
+LOCATION:New World Saigon Hotel Lobby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-7-iuy2ebt5@pinetreesw.com
+SUMMARY:Dinner on Rever Cruise
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T190000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T213000
+DESCRIPTION:Dinner on Rever Cruise featuring speaker CEO Nguyen Le Chon Tam of Saigon Port. Vietnamese food.
+LOCATION:5 Nguyen Tat Thanh\, Xom Chieu Ward\, Ho Chi Minh City
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-1-8-l4hzip9e@pinetreesw.com
+SUMMARY:Return to Hotel and Optional Bui Vien Visit
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260203T220000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260203T230000
+DESCRIPTION:Return to the hotel at 10:00 PM. Optional 10:15 PM meeting to walk to Bui Vien Street at 10:30 PM led by Walt and Anna Spevak.
+LOCATION:Bui Vien Street
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-2-0-kk0wtfmt@pinetreesw.com
+SUMMARY:Morning Exercise and Breakfast
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T070000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260204T080000
+DESCRIPTION:Street exercise with local people and breakfast on your own at the hotel.
+LOCATION:New World Saigon Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-2-1-kpy1ad16@pinetreesw.com
+SUMMARY:Depart for Cu Chi Tunnels
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T080000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260204T090000
-DESCRIPTION:Street_exercise_with_local_people._Depart_for_Cu_Chi_Tunnels.
-LOCATION:Ho_Chi_Minh_City
+DTEND;TZID=Asia/Ho_Chi_Minh:20260204T103000
+DESCRIPTION:Meet at the lobby to depart for the historic Cu Chi Tunnels.
+LOCATION:New World Saigon Hotel Lobby
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-2-1-6qx0928v@pinetreesw.com
-SUMMARY:Visit_Cu_Chi_Tunnels
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-2-2-vdgcj1hh@pinetreesw.com
+SUMMARY:Visit Cu Chi Tunnels
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T103000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260204T113000
-DESCRIPTION:Visit_Cu_Chi_Tunnels.
-LOCATION:Cu_Chi_Tunnels
+DTEND;TZID=Asia/Ho_Chi_Minh:20260204T123000
+DESCRIPTION:Exploring the Cu Chi Tunnels\, escorted by Lam and Tom.
+LOCATION:Cu Chi Tunnels
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-2-2-4s9fs4vi@pinetreesw.com
-SUMMARY:Lunch_at_Sol_Cu_Chi_Restaurant
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-2-3-k3alt8r5@pinetreesw.com
+SUMMARY:Lunch at Sol Cu Chi Restaurant
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T123000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260204T133000
-DESCRIPTION:Lunch_at_Sol_Cu_Chi_Restaurant.
-LOCATION:Sol_Cu_Chi_Restaurant
+DESCRIPTION:Vietnamese food lunch at Sol Cu Chi Restaurant.
+LOCATION:84 Pham Van Coi Street\, Cu Chi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-2-3-0n179xmc@pinetreesw.com
-SUMMARY:Dinner_and_Ao_Dai_Fashion_Show
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T060000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260204T070000
-DESCRIPTION:Dinner_at_Son_Thuy_restaurant_with_Ao_Dai_fashion_show_and_Fireside_Chat_with_Johan_and_Mike_Kokalari.
-LOCATION:Son_Thuy_Restaurant
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-2-4-xqyf31ei@pinetreesw.com
+SUMMARY:Return to Hotel and Personal Time
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T133000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260204T160000
+DESCRIPTION:Depart for the hotel\, arriving at 4:00 PM for personal time.
+LOCATION:New World Saigon Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117551842-0-act-3-0-vlu75zi2@pinetreesw.com
-SUMMARY:Group_1_Meeting_&_Japanese_Training_School_Visit
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-2-5-0irzq38p@pinetreesw.com
+SUMMARY:Dinner and Fashion Show at Son Thuy
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260204T180000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260204T213000
+DESCRIPTION:Vietnamese food dinner with Ao Dai fashion show and Fireside Chat with Johan and Mike Kokalari. Dresscode: Semi-formal/Ao Dai.
+LOCATION:Son Thuy restaurant\, 37B Pham Ngoc Thach Street\, Ward 6\, District 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-3-0-p1lhypa1@pinetreesw.com
+SUMMARY:Group 1: Visit Japanese Training School and Departure
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T083000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260205T093000
-DESCRIPTION:Street_exercise_with_local_people._Group_1:_Meet_at_the_lobby\,_hotel_check_out_and_transfer_to_visit_Japanese_Training_School_(Esuhai_School).
-LOCATION:Esuhai_School
+DESCRIPTION:Hotel check out and transfer to visit Esuhai School followed by transfer to Tan Son Nhat Airport. Escorted by Lam and Thu Anh.
+LOCATION:Esuhai School: 40/12 Ap Bac Street
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-stay-8gobpzy6@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196580549-0-act-3-1-msyd87hc@pinetreesw.com
+SUMMARY:Group 2: Hotel Check-out and Airport Transfer
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T100000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260205T110000
+DESCRIPTION:Hotel check out and transfer to Tan Son Nhat airport for Phu Quoc Island flight. Escorted by Tom and Song Ha.
+LOCATION:New World Saigon Hotel Lobby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-stay-94e3oks3@pinetreesw.com
 SUMMARY:Phu Quoc
-DESCRIPTION:Stay at the InterContinental Phu Quoc Resort including school visits and island tours.
+DESCRIPTION:A multi-day island stay featuring school visits\, cable car tours\, and beach relaxation.
 LOCATION:InterContinental Phu Quoc Resort
 DTSTART;VALUE=DATE:20260205
 DTEND;VALUE=DATE:20260207
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-0-0-7tgnelrk@pinetreesw.com
-SUMMARY:Departure from Hotel and Airport Transfer
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T100000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260205T110000
-DESCRIPTION:Group 2: Meet at the lobby\; Hotel check out\; Transfer to Tan Son Nhat airport for Phu Quoc Island.
-LOCATION:Tan Son Nhat International Airport
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-0-1-eazy2nt3@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-0-0-o792zup6@pinetreesw.com
 SUMMARY:Flight to Phu Quoc
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T130000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260205T140000
-DESCRIPTION:Flight to Phu Quoc on Vietnam Airlines (VN1827).
+DESCRIPTION:Flight to Phu Quoc on Vietnam Airlines (VN1827) (1-hour flight). Booking Code: Anna/Walt Spevak: FVXI97\; Chris/Kirsten/Lisa/Ken: E5FDOX\; Rest of the group: DDV725
 LOCATION:Tan Son Nhat International Airport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-0-2-82m1ha29@pinetreesw.com
-SUMMARY:Check-in and Beach Relaxation
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-0-1-knqemuxd@pinetreesw.com
+SUMMARY:Check-in & Beach Relaxation
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T150000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260205T160000
-DESCRIPTION:Check-in at InterContinental Phu Quoc Resort\; Relax on the beach. Bike tour inside InterContinental Phu Quoc Resort.
+DESCRIPTION:Check-in at InterContinental Phu Quoc Resort\; Relax on the beach. Confirm booking at InterContinental Phu Quoc: Group code: I38. After check-in: Optional bike tour inside InterContinental Phu Quoc Resort.
 LOCATION:InterContinental Phu Quoc Resort
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-0-3-me8kur46@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-0-2-bssq830n@pinetreesw.com
+SUMMARY:Meet at Lobby
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T174500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260205T183000
+DESCRIPTION:Meet at the lobby\; Depart for dinner.
+LOCATION:InterContinental Phu Quoc Resort
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-0-3-7djuk07h@pinetreesw.com
 SUMMARY:Dinner at Sorrento Restaurant & Bar
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T183000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260205T193000
-DESCRIPTION:Dinner at Sorrento Restaurant & Bar.
+DESCRIPTION:Dinner at Sorrento Restaurant & Bar (seafood). Address: An Thoi\, Phu Quoc
 LOCATION:Sorrento Restaurant & Bar
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-0-4-vdszyok3@pinetreesw.com
-SUMMARY:Kiss of the Sea Show
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-0-4-tpou4y32@pinetreesw.com
+SUMMARY:Kiss of the Sea Show and Fireworks
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T210000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260205T220000
 DESCRIPTION:Enjoy Kiss of the Sea Show and Fireworks.
-LOCATION:Kiss of the Sea Show
+LOCATION:Sunset Town\, Phu Quoc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-1-0-yeapzvf6@pinetreesw.com
-SUMMARY:Departure for School
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-0-5-jlzig0sd@pinetreesw.com
+SUMMARY:Return to the Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260205T220000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260205T230000
+DESCRIPTION:Return to the hotel for overnight stay.
+LOCATION:InterContinental Phu Quoc Resort
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-0-4x7w54x7@pinetreesw.com
+SUMMARY:Meet at Lobby
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T081500
 DTEND;TZID=Asia/Ho_Chi_Minh:20260206T090000
 DESCRIPTION:Meet at the lobby\; Depart for Duong To 2 Primary School.
 LOCATION:InterContinental Phu Quoc Resort
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-1-1-e17lqkpr@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-1-thl28sg6@pinetreesw.com
 SUMMARY:Visit Duong To 2 Primary School
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260206T100000
@@ -229,98 +283,134 @@ DESCRIPTION:Visit Duong To 2 Primary School.
 LOCATION:Duong To 2 Primary School
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-1-2-fa8qav95@pinetreesw.com
-SUMMARY:Lunch at Hotel
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T120000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260206T130000
-DESCRIPTION:Lunch on your own at the hotel. [Restaurants List](https://docs.google.com/document/d/13SVv4aVFTlXpYoMX2vnF2IohotU1IVH1omkt84WdmR4/edit?tab=t.0).
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-2-jt8f1wh7@pinetreesw.com
+SUMMARY:Return to the Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T110000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260206T120000
+DESCRIPTION:Return to the InterContinental Phu Quoc Resort.
 LOCATION:InterContinental Phu Quoc Resort
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-1-3-9t7ykkyt@pinetreesw.com
-SUMMARY:Afternoon Tour Options
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T130000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260206T140000
-DESCRIPTION:Depart for Phu Quoc tour options: Hon Thom Island Tour by Cable Car\, Snorkeling Tour\, or relax at the InterContinental Resort.
-LOCATION:Phu Quoc
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-3-w6w04jcd@pinetreesw.com
+SUMMARY:Lunch on your own
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T120000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260206T130000
+DESCRIPTION:Lunch on your own at the hotel. See restaurants list.
+LOCATION:InterContinental Phu Quoc Resort
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-1-4-h9qnhb6v@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-4-jo8h84xp@pinetreesw.com
+SUMMARY:Phu Quoc Tour Options
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T130000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260206T163000
+DESCRIPTION:Meet at lobby to depart for tour. Choose one of three activities: Option D.1: Hon Thom Island Tour by Cable Car (world's longest cable car\, panoramic views)\; Option D.2: Snorkeling Tour (crystal-clear waters\, coral reefs)\; Option D.3: Relax at the InterContinental Resort.
+LOCATION:Hon Thom Cable Car Station
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-5-nb5a5vb4@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T163000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260206T173000
+DESCRIPTION:Return to the hotel to freshen up.
+LOCATION:InterContinental Phu Quoc Resort
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-1-6-zmt4hehq@pinetreesw.com
 SUMMARY:Dinner at Sora and Ume
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260206T183000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260206T193000
-DESCRIPTION:Dinner at Sora and Ume restaurant.
-LOCATION:Sora and Ume restaurant
+DESCRIPTION:Dinner at Sora and Ume restaurant (where we had breakfast).
+LOCATION:Sora and Ume Restaurant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117568735-1-act-2-0-2g7akbnj@pinetreesw.com
-SUMMARY:Check-out and Departure
+DTSTAMP:20260215T230813Z
+UID:stop-1771196602595-1-act-2-0-tpy2oi0j@pinetreesw.com
+SUMMARY:Check-out and Depart to Ferry
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T113000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260207T123000
-DESCRIPTION:Meet at the lobby\; Hotel check-out\; Depart to speedboat ferry by bus.
+DTEND;TZID=Asia/Ho_Chi_Minh:20260207T121500
+DESCRIPTION:Meet at the lobby\; Hotel check-out\; Depart to speedboat ferry by bus (45-minute ride).
 LOCATION:InterContinental Phu Quoc Resort
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-stay-1e44j3w5@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-stay-e8sjf7tj@pinetreesw.com
 SUMMARY:Rach Gia
-DESCRIPTION:A short stay in Rach Gia including a boat trip and a visit to the Phu Cuong Urban Area.
-LOCATION:Saigon - Rach Gia hotel
+DESCRIPTION:1 night stay at the Saigon - Rach Gia Hotel with a visit to the Phu Cuong Urban Area.
+LOCATION:Saigon - Rach Gia Hotel
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-act-0-0-kp6q6495@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-0-0-cp1sv8iy@pinetreesw.com
 SUMMARY:Boat trip to Rach Gia City
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T132000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260207T142000
-DESCRIPTION:Boat trip to Rach Gia City on PQE6 - Phu Quoc Express 6.
-LOCATION:Phu Quoc Express 6
+DTEND;TZID=Asia/Ho_Chi_Minh:20260207T152000
+DESCRIPTION:Boat trip to Rach Gia City on PQE6 - Phu Quoc Express 6 (2 hours). No lunch. Snack on board. Confirm booking at Express Phu Quoc Boat: PQE.CT.0003/ 8087397/ 20260207PQ-RG0006: Code from 8087397 to 8087430.
+LOCATION:Phu Quoc Express
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-act-0-1-zpce3rro@pinetreesw.com
-SUMMARY:Check-in at Saigon - Rach Gia hotel
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-0-1-q4yuy1c1@pinetreesw.com
+SUMMARY:Hotel Check-in
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T160000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260207T170000
-DESCRIPTION:Check-in at Saigon - Rach Gia hotel.
-LOCATION:Saigon - Rach Gia hotel
+DTEND;TZID=Asia/Ho_Chi_Minh:20260207T164500
+DESCRIPTION:Check-in at Saigon - Rach Gia hotel. Confirm booking at Saigon Rach Gia hotel: 22329
+LOCATION:Saigon - Rach Gia Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-act-0-2-v4luyox9@pinetreesw.com
-SUMMARY:Phu Cuong office visit and Urban Area Tour
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-0-2-i7r5esut@pinetreesw.com
+SUMMARY:Lobby Meet-up
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T164500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260207T170000
+DESCRIPTION:Meet at the lobby\; Depart for Phu Cuong office.
+LOCATION:Saigon - Rach Gia Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-0-3-bygtb7hf@pinetreesw.com
+SUMMARY:Phu Cuong Office Visit and Tour
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T170000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260207T180000
-DESCRIPTION:Phu Cuong office visit and Phu Cuong Urban Area Tour.
+DESCRIPTION:Phu Cuong office visit and Phu Cuong Urban Area Tour. Phu Cuong office address: No. 1 Ha Huy Tap Street\, Phu Cuong Urban Area\, Rach Gia Ward\, An Giang. Contact person: Mr. Cơ of Phu Cuong: 0946854499
 LOCATION:Phu Cuong Urban Area
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-act-0-3-6u1pgteb@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-0-4-179het0l@pinetreesw.com
 SUMMARY:Dinner and Karaoke
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T180000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260207T190000
-DESCRIPTION:Dinner with Phu Cuong leaders at Hoa Bien Rach Gia restaurant followed by Karaoke.
+DESCRIPTION:Dinner with Phu Cuong leaders at Hoa Bien Rach Gia restaurant (Vietnamese food)\, followed by Karaoke (Recovered as result of group appraising!). Address: Lot A2\, 16-hectare area\, Hoa Bien\, Rach Gia Ward\, An Giang
 LOCATION:Hoa Bien Rach Gia restaurant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-act-1-0-zf64rpwy@pinetreesw.com
-SUMMARY:Lobby Meet and Check-out
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T090000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260208T093000
-DESCRIPTION:Meet at the lobby\; Hotel check-out and depart for Brunch at Sophia Cafe.
-LOCATION:Saigon - Rach Gia hotel
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-0-5-ynjcw8p7@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260207T213000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260207T223000
+DESCRIPTION:Return to the hotel.
+LOCATION:Saigon - Rach Gia Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117585056-2-act-1-1-xoyi8t5s@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-1-0-cpwfusxg@pinetreesw.com
+SUMMARY:Check-out and Departure
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T090000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T093000
+DESCRIPTION:Breakfast on your own at Saigon - Rach Gia Hotel. Meet at the lobby\; Hotel check-out and depart for Brunch at Sophia Cafe.
+LOCATION:Saigon - Rach Gia Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196623070-2-act-1-1-udk8zcqm@pinetreesw.com
 SUMMARY:Brunch at Sophia Cafe
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T093000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260208T103000
@@ -328,179 +418,215 @@ DESCRIPTION:Brunch at Sophia Cafe.
 LOCATION:Sophia Cafe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-stay-61it7h89@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-stay-qpa5ds21@pinetreesw.com
 SUMMARY:Can Tho
-DESCRIPTION:2 nights at the Sheraton Can Tho Hotel.
+DESCRIPTION:2 nights at the Sheraton Can Tho Hotel including a visit to the floating market and local tours.
 LOCATION:Sheraton Can Tho Hotel
 DTSTART;VALUE=DATE:20260208
 DTEND;VALUE=DATE:20260210
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-0-0-u7ybi9r5@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-0-e4voug7q@pinetreesw.com
 SUMMARY:Lunch at Saravan Restaurant
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T130000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260208T140000
-DESCRIPTION:Lunch at Saravan Restaurant at Sheraton Hotel.
-LOCATION:Saravan Restaurant
+DESCRIPTION:Lunch at Saravan Restaurant (Thai food) at Sheraton Hotel located on the 6th floor.
+LOCATION:Saravan Restaurant\, Sheraton Can Tho Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-0-1-5g27cxed@pinetreesw.com
-SUMMARY:Hotel Check-in
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-1-6u52dga4@pinetreesw.com
+SUMMARY:Check-in at Sheraton Can Tho Hotel
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T150000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260208T160000
-DESCRIPTION:Check-in at Sheraton Can Tho Hotel.
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T153000
+DESCRIPTION:Check-in at Sheraton Can Tho Hotel. Booking confirmation: SGN-FT2-32SGN16-MS.THUANH.USA-020226
 LOCATION:Sheraton Can Tho Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-0-2-al0n39m1@pinetreesw.com
-SUMMARY:Dinner at Lua Nep
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T190000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260208T200000
-DESCRIPTION:Dinner at Lua Nep restaurant.
-LOCATION:Lua Nep restaurant
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-0-3-0cvw4f31@pinetreesw.com
-SUMMARY:Visit Ninh Kieu Wharf
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T203000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260208T213000
-DESCRIPTION:Visit Ninh Kieu Wharf.
-LOCATION:Ninh Kieu Wharf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-1-0-qa1n92c9@pinetreesw.com
-SUMMARY:Morning Floating Market
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T063000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260209T073000
-DESCRIPTION:Depart hotel for morning floating market by bus. Includes options to visit coconut candy factory and fruit farm (Option E.1) or return to Sheraton hotel to watch the Super Bowl (Option E.2).
-LOCATION:Can Tho Floating Market
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-1-1-8z4vubts@pinetreesw.com
-SUMMARY:Lunch at Mekong Restaurant
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T120000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260209T130000
-DESCRIPTION:Lunch at Mekong Restaurant.
-LOCATION:Mekong Restaurant
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-1-2-64o6aqjc@pinetreesw.com
-SUMMARY:Bike or Walking Tour
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T140000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260209T150000
-DESCRIPTION:Bike Tour or Walking Tour.
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-2-3npaz3gu@pinetreesw.com
+SUMMARY:Personal time and relaxation
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T153000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T163000
+DESCRIPTION:Time for personal activities and relaxation at the hotel.
 LOCATION:Can Tho
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-1-3-sfxhoj5m@pinetreesw.com
-SUMMARY:Dinner at MeKong Restaurant
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T183000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260209T193000
-DESCRIPTION:Dinner at MeKong Restaurant.
-LOCATION:MeKong Restaurant
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-3-zycjyaw1@pinetreesw.com
+SUMMARY:Meet at Lobby and Depart for Dinner
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T183000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T190000
+DESCRIPTION:Meet at the lobby and depart for the evening's dinner location.
+LOCATION:Sheraton Can Tho Hotel Lobby
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-2-0-nhrx5dpm@pinetreesw.com
-SUMMARY:Breakfast at Hotel
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T060000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260210T070000
-DESCRIPTION:Breakfast at the hotel.
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-4-a6qn7kjq@pinetreesw.com
+SUMMARY:Dinner at Lua Nep Restaurant
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T190000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T200000
+DESCRIPTION:Dinner at Lua Nep restaurant (Vietnamese food) located at Song Hau Street\, Cai Khe\, Ninh Kieu\, Can Tho.
+LOCATION:Lua Nep Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-5-htjpxc13@pinetreesw.com
+SUMMARY:Visit Ninh Kieu Wharf (Optional)
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T203000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T213000
+DESCRIPTION:An optional evening visit to the Ninh Kieu Wharf.
+LOCATION:Ninh Kieu Wharf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-0-6-6k08sop9@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260208T220000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260208T230000
+DESCRIPTION:Return to the Sheraton Can Tho Hotel for the night.
 LOCATION:Sheraton Can Tho Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117604170-3-act-2-1-qtb7zlyu@pinetreesw.com
-SUMMARY:Check out and Airport Transfer
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-1-0-n4hh9b75@pinetreesw.com
+SUMMARY:Depart for Morning Floating Market
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T063000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260209T073000
+DESCRIPTION:Meet at the lobby and depart the hotel for the morning floating market by bus. Early departure due to activities at the wholesale market. Breakfast box provided on the bus. Options include: Option E.1: Continue to visit a coconut candy factory by boat and a fruit farm by bus. Option E.2: Return to Sheraton hotel by bus to watch the Super Bowl on TV and engage in betting at ORCHID MEETING 1\, 5th floor.
+LOCATION:Cai Rang Floating Market
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-1-1-ayoovnad@pinetreesw.com
+SUMMARY:Lunch at Mekong Restaurant
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T120000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260209T130000
+DESCRIPTION:Lunch at Mekong Restaurant (Western food) located on the Ground floor of the Sheraton Can Tho Hotel.
+LOCATION:Mekong Restaurant\, Sheraton Can Tho Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-1-2-5wxx7spz@pinetreesw.com
+SUMMARY:Afternoon Tours (Option E.3 or E.4)
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T140000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260209T150000
+DESCRIPTION:Meet at the lobby for choice of Option E.3: Bike Tour or Option E.4: Walking Tour.
+LOCATION:Sheraton Can Tho Hotel Lobby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-1-3-6dld27tu@pinetreesw.com
+SUMMARY:Dinner at Mekong Restaurant
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T183000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260209T193000
+DESCRIPTION:Dinner at Mekong Restaurant (International food) located on the Ground floor of the Sheraton Can Tho Hotel.
+LOCATION:Mekong Restaurant\, Sheraton Can Tho Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-1-4-3ol589rb@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260209T203000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260209T213000
+DESCRIPTION:Return to the hotel for the evening.
+LOCATION:Sheraton Can Tho Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-2-0-dlr5k127@pinetreesw.com
+SUMMARY:Breakfast at Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T060000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260210T070000
+DESCRIPTION:Morning breakfast served at the hotel.
+LOCATION:Sheraton Can Tho Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-2-1-yist5cyv@pinetreesw.com
+SUMMARY:Hotel Checkout and Airport Transfer
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260210T080000
-DESCRIPTION:Meet at the lobby\; Hotel check out and transfer to Can Tho Airport.
+DESCRIPTION:Meet at the lobby for hotel check out and transfer to Can Tho Airport.
 LOCATION:Can Tho Airport
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-stay-ab8qpwco@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196640197-3-act-2-2-wfkd5joy@pinetreesw.com
+SUMMARY:Flight to Hanoi (Noi Bai Airport)
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T093500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260210T120500
+DESCRIPTION:Flight to Noi Bai Airport on Vietnam Airlines (VN1200). Booking codes: Anna/Walt Spevak: FVX9VW\; Chris/Kirsten/Lisa/Ken: E5FDOX\; Rest of the group: DDW455. (2.5-hour flight).
+LOCATION:Can Tho Airport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-stay-znx04gcd@pinetreesw.com
 SUMMARY:Hai Phong
-DESCRIPTION:Stay at Melia Hotel with a visit to Mo Temple.
+DESCRIPTION:A one-night stay at the Melia Hotel with a visit to Den Mo.
 LOCATION:Melia Hotel
 DTSTART;VALUE=DATE:20260210
 DTEND;VALUE=DATE:20260211
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-0-0-n2kvciff@pinetreesw.com
-SUMMARY:Flight to Noi Bai Airport
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T093500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260210T103500
-DESCRIPTION:Flight to Noi Bai Airport (VN1200).
-LOCATION:Noi Bai Airport
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-0-1-cmv5mpld@pinetreesw.com
-SUMMARY:Arrival and Transfer
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-0-0-4nrhoqa3@pinetreesw.com
+SUMMARY:Arrive in Hanoi & Transfer
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T120000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260210T130000
 DESCRIPTION:Arrive in Hanoi\; Transfer to Van Tri Golf Club.
-LOCATION:Van Tri Golf Club
+LOCATION:Hanoi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-0-2-a1b5a5w3@pinetreesw.com
-SUMMARY:Lunch
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-0-1-3lgqn0f7@pinetreesw.com
+SUMMARY:Lunch at Van Tri Golf Club
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T130000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260210T140000
-DESCRIPTION:Lunch at Van Tri Golf Club.
+DESCRIPTION:Lunch at Van Tri Golf Club (Korean food).
 LOCATION:Van Tri Golf Club
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-0-3-2p5l0wj7@pinetreesw.com
-SUMMARY:Depart to Hai Phong
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-0-2-puz1cb9g@pinetreesw.com
+SUMMARY:Depart to Hai Phong City
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T140000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260210T150000
-DESCRIPTION:Depart to Hai Phong City.
+DTEND;TZID=Asia/Ho_Chi_Minh:20260210T170000
+DESCRIPTION:Depart to Hai Phong City (3-hour drive) with stops on the way.
 LOCATION:Hai Phong City
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-0-4-4u6s3wbi@pinetreesw.com
-SUMMARY:Check-in
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-0-3-tvnmm25a@pinetreesw.com
+SUMMARY:Check-in at Melia Hotel
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T170000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260210T180000
-DESCRIPTION:Check-in at Melia Hotel in Hai Phong City.
+DESCRIPTION:Check-in at Melia Hotel in Hai Phong City. Confirm booking at Melia hotel: SGN-FT2-32SGN16-MS.THUANH.USA-020226. Add: 04112 Manhattan 9\, Vinhomes Imperia\, Hong Bang\, Hai Phong.
 LOCATION:Melia Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-0-5-fx2t4unp@pinetreesw.com
-SUMMARY:Dinner
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-0-4-685n49re@pinetreesw.com
+SUMMARY:Dinner at Melia Hotel
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260210T190000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260210T200000
-DESCRIPTION:Dinner at Melia Hotel.
+DESCRIPTION:Dinner at Melia Hotel. Venue: Private meeting room 1 on the 2nd floor\, Melia Hotel.
 LOCATION:Melia Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-1-0-0kei3at5@pinetreesw.com
-SUMMARY:Hotel Check out and Departure
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-1-0-tvv01v1y@pinetreesw.com
+SUMMARY:Check-out and Depart to Den Mo
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T084500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260211T094500
-DESCRIPTION:Meet at the lobby\; Hotel check out\; Depart to Den Mo (Mo Temple).
+DTEND;TZID=Asia/Ho_Chi_Minh:20260211T092500
+DESCRIPTION:Breakfast on your own at Melia Hotel. Meet at the lobby\; Hotel check out\; Depart to Den Mo (Mo Temple) (40-minute drive).
 LOCATION:Melia Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117618192-4-act-1-1-yijmd36j@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196663413-4-act-1-1-1apnvc8w@pinetreesw.com
 SUMMARY:Visit Den Mo
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T100000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260211T110000
@@ -508,44 +634,62 @@ DESCRIPTION:Visit Den Mo.
 LOCATION:Den Mo
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-stay-adh99pj0@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-stay-ivg6n4c9@pinetreesw.com
 SUMMARY:Ha Long
-DESCRIPTION:2-day cruise on the Aimee Cruise visiting Luon Cave\, Titop Island\, and Sung Sot Cave.
+DESCRIPTION:2-day cruise on Aimee Cruise in Ha Long Bay
 LOCATION:Aimee Cruise
 DTSTART;VALUE=DATE:20260211
 DTEND;VALUE=DATE:20260212
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-0-ce3b8s89@pinetreesw.com
-SUMMARY:Boarding on Aimee Cruise
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-0-mxvludjx@pinetreesw.com
+SUMMARY:Depart for Ha Long
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T103000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260211T113000
+DESCRIPTION:Depart for Ha Long.
+LOCATION:Ha Long
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-1-mr7byg9k@pinetreesw.com
+SUMMARY:Boarding Aimee Cruise
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T120000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260211T130000
-DESCRIPTION:Boarding on Aimee Cruise. Cabin check-in.
+DTEND;TZID=Asia/Ho_Chi_Minh:20260211T121500
+DESCRIPTION:Boarding on Aimee Cruise. Cabin check-in. Confirm booking at Aimee Cruise: 112543
 LOCATION:Aimee Cruise
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-1-dquc7opv@pinetreesw.com
-SUMMARY:Lunch
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-2-eue7mgop@pinetreesw.com
+SUMMARY:Transfer and Briefing
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T121500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260211T130000
+DESCRIPTION:Transfer by tender to Aimeé Cruise\; Upon boarding\, enjoy a refreshing welcome drink\, complete the check-in process\, and receive a safety briefing along with an introduction to your 2-day itinerary.
+LOCATION:Ha Long
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-3-7wegb003@pinetreesw.com
+SUMMARY:Lunch on Board
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T130000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260211T140000
-DESCRIPTION:Lunch on cruise.
-LOCATION:Aimee Cruise
+DESCRIPTION:Enjoy a delicious lunch at the onboard restaurant while cruising through the stunning landscapes of Halong Bay\, dotted with limestone karsts and scenic islets.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-2-zl34crdg@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-4-qywqe3vu@pinetreesw.com
 SUMMARY:Explore Luon Cave
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T144500
 DTEND;TZID=Asia/Ho_Chi_Minh:20260211T154500
-DESCRIPTION:Explore Luon Cave by kayaking or bamboo boat.
+DESCRIPTION:Explore Luon Cave by either kayaking or taking a traditional bamboo boat rowed by local fishermen
 LOCATION:Luon Cave
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-3-cbtdwb6x@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-5-8lciq867@pinetreesw.com
 SUMMARY:Visit Titop Island
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T160000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260211T170000
@@ -553,53 +697,53 @@ DESCRIPTION:Visit Titop Island.
 LOCATION:Titop Island
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-4-vwcambjj@pinetreesw.com
-SUMMARY:Cooking Class and Sunset Relaxation
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-6-uaofjjk4@pinetreesw.com
+SUMMARY:Sunset and Cooking Class
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T170000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260211T180000
-DESCRIPTION:Vietnamese cooking class and sunset sundeck relaxation.
-LOCATION:Aimee Cruise
+DTEND;TZID=Asia/Ho_Chi_Minh:20260211T183000
+DESCRIPTION:Return to the cruise ship to unwind on the sundeck at sunset. Join a Vietnamese cooking class and enjoy a drink as the bay turns golden.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-5-dxwpf63w@pinetreesw.com
-SUMMARY:Gourmet Seafood Dinner
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-7-yxzh1p0i@pinetreesw.com
+SUMMARY:Gourmet Dinner
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T191500
 DTEND;TZID=Asia/Ho_Chi_Minh:20260211T201500
-DESCRIPTION:Gourmet seafood dinner.
-LOCATION:Aimee Cruise
+DESCRIPTION:Savor a gourmet dinner featuring fresh seafood and authentic Vietnamese cuisine.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-0-6-w5efz818@pinetreesw.com
-SUMMARY:Night Squid Fishing
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-0-8-h5m7nmin@pinetreesw.com
+SUMMARY:Night Activities
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260211T210000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260211T220000
-DESCRIPTION:Night squid fishing.
-LOCATION:Aimee Cruise
+DESCRIPTION:Optional night squid fishing\, or relax on deck under the starlit sky.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-1-0-1bwod7ue@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-0-99jhhw6e@pinetreesw.com
 SUMMARY:Tai Chi Session
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T061500
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T063000
-DESCRIPTION:Tai Chi session.
-LOCATION:Aimee Cruise
+DESCRIPTION:Tai Chi session on the sundeck.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-1-1-xzkx5yf7@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-1-an2uujhu@pinetreesw.com
 SUMMARY:Light Breakfast
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T063000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T072000
-DESCRIPTION:Light breakfast.
-LOCATION:Aimee Cruise
+DESCRIPTION:Enjoy a light breakfast with tea\, coffee\, and fresh pastries.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-1-2-xfo394yu@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-2-crjkl9w0@pinetreesw.com
 SUMMARY:Visit Sung Sot Cave
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T072000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T082000
@@ -607,44 +751,71 @@ DESCRIPTION:Visit Sung Sot Cave (Surprise Cave).
 LOCATION:Sung Sot Cave
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-1-3-zgvtms3p@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-3-px707j71@pinetreesw.com
+SUMMARY:Check-out Preparation
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T091500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260212T093000
+DESCRIPTION:Return to the cruise. Settle your bill and prepare for check-out.
+LOCATION:Ha Long
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-4-k08fo6vy@pinetreesw.com
 SUMMARY:Buffet Brunch
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T093000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T103000
-DESCRIPTION:Buffet brunch while returning to harbor.
-LOCATION:Aimee Cruise
+DESCRIPTION:Enjoy a buffet brunch while the cruise returns to the harbor.
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117635105-5-act-1-4-kmnlv371@pinetreesw.com
-SUMMARY:Disembark Cruise
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-5-b86e3cfn@pinetreesw.com
+SUMMARY:Disembarkation Process
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T104500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260212T110000
+DESCRIPTION:Disembark at Ha Long International Port.
+LOCATION:Ha Long International Port
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196680310-5-act-1-6-5nf24hwc@pinetreesw.com
+SUMMARY:Disembark Cruise Boat
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T110000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T120000
 DESCRIPTION:Disembark cruise boat.
-LOCATION:Ha Long Harbor
+LOCATION:Ha Long
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117656690-6-stay-3ma1q4me@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196702937-6-stay-kzdgc9t9@pinetreesw.com
 SUMMARY:Hanoi
-DESCRIPTION:A transition day in Hanoi visiting ParkCity before boarding an overnight train to Sapa.
-LOCATION:Chapa Express Train (Departure)
+DESCRIPTION:Day visit to ParkCity Hanoi before boarding the overnight Chapa Train to Sapa.
+LOCATION:Chapa Train
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260212
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117656690-6-act-0-0-9hcrbnwl@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196702937-6-act-0-0-nntqcrs3@pinetreesw.com
+SUMMARY:Travel by Bus to ParkCity Hanoi
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T110000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260212T150000
+DESCRIPTION:Travel by bus to ParkCity Hanoi (4-hour drive).
+LOCATION:ParkCity Hanoi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196702937-6-act-0-1-dh6agy3m@pinetreesw.com
 SUMMARY:ParkCity Hanoi Township Visit
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T150000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T160000
-DESCRIPTION:Travel by bus to ParkCity Hanoi. ParkCity Hanoi township visit and relaxation at Clubhouse.
+DESCRIPTION:ParkCity Hanoi township visit. Relax at ParkCity Clubhouse (with gym and swimming pool).
 LOCATION:ParkCity Hanoi Clubhouse
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117656690-6-act-0-1-kjylz9kw@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196702937-6-act-0-2-wh3db70w@pinetreesw.com
 SUMMARY:Dinner at ParkCity Hanoi Clubhouse
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T173000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T183000
@@ -652,62 +823,62 @@ DESCRIPTION:Dinner at ParkCity Hanoi Clubhouse with Vietnam Foundation team and 
 LOCATION:ParkCity Hanoi Clubhouse
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117656690-6-act-0-2-t9va2k91@pinetreesw.com
-SUMMARY:Depart for Hanoi Station
+DTSTAMP:20260215T230813Z
+UID:stop-1771196702937-6-act-0-3-c5mq323m@pinetreesw.com
+SUMMARY:Departure for Hanoi Station or Apricot Hotel
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T193000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T203000
-DESCRIPTION:Depart ParkCity for Hanoi Station.
-LOCATION:Hanoi Railway Station
+DESCRIPTION:Depart ParkCity for Hanoi Station. Robin/Alan/Hugh/Bret: Depart ParkCity for Apricot Hotel for check-in (Escort by Tuan tour guide). Confirm booking at Apricot Hotel: SGN-FT2-32SGN16 Vietravel.
+LOCATION:ParkCity Hanoi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117656690-6-act-0-3-e89g0op6@pinetreesw.com
-SUMMARY:Boarding Chapa Train
+DTSTAMP:20260215T230813Z
+UID:stop-1771196702937-6-act-0-4-nwonb35r@pinetreesw.com
+SUMMARY:Boarding Chapa Train to Sapa
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260212T220000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260212T230000
-DESCRIPTION:Boarding Chapa Train to Sapa.
+DESCRIPTION:Boarding Chapa Train to Sapa. Confirm booking at Chapa Train: SGN-FT2-32SGN16-MS.THUANH.USA-020226. Overnight in private train cabins.
 LOCATION:Hanoi Railway Station
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-stay-fp9dfenv@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-stay-grrlngl2@pinetreesw.com
 SUMMARY:Sapa
-DESCRIPTION:2 days in Sapa exploring Fansipan Mountain and ethnic villages.
+DESCRIPTION:1 night at the MGallery Sapa Hotel before returning to Hanoi.
 LOCATION:MGallery Sapa Hotel
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-act-0-0-gz9bs800@pinetreesw.com
-SUMMARY:Hotel Check-in and Breakfast
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-0-0-1c38uzbi@pinetreesw.com
+SUMMARY:Hotel check-in and Breakfast
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260213T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260213T080000
-DESCRIPTION:Hotel check-in and Breakfast at MGallery Sapa Hotel.
-LOCATION:MGallery Sapa Hotel
+DESCRIPTION:Hotel check-in and Breakfast at MGallery Sapa Hotel. Confirm booking at MGallery Sapa Hotel: 666274
+LOCATION:Hotel de la Coupole - MGallery Sapa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-act-0-1-17i2t9m1@pinetreesw.com
-SUMMARY:Fansipan Mountain
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-0-1-lyopy1re@pinetreesw.com
+SUMMARY:Fansipan Mountain Visit
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260213T093000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260213T103000
-DESCRIPTION:Visit Fansipan Mountain by cable car.
+DESCRIPTION:Meet at the lobby\; Depart to visit Fansipan Mountain by cable car.
 LOCATION:Fansipan Mountain
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-act-0-2-zrtcy48u@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-0-2-gq98wwbn@pinetreesw.com
 SUMMARY:Lunch at Mẩy Quán Restaurant
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260213T120000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260213T130000
-DESCRIPTION:Lunch at Mẩy Quán Restaurant.
+DESCRIPTION:Lunch at Mẩy Quán Restaurant (Vietnamese food). Address: 57 Xuan Vien\, Sa Pa Town\, Lao Cai Province
 LOCATION:Mẩy Quán Restaurant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-act-0-3-lfohvg91@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-0-3-f1s2u498@pinetreesw.com
 SUMMARY:Bus tour to an ethnic village
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260213T140000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260213T150000
@@ -715,138 +886,174 @@ DESCRIPTION:Bus tour to an ethnic village.
 LOCATION:Sapa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-act-0-4-qg3fob7x@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-0-4-l1s3rxt5@pinetreesw.com
+SUMMARY:Return to hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260213T160000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260213T170000
+DESCRIPTION:Return to the hotel to freshen up.
+LOCATION:Hotel de la Coupole - MGallery Sapa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-0-5-jks9hv6l@pinetreesw.com
 SUMMARY:Dinner at Chic Restaurant
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260213T183000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260213T193000
-DESCRIPTION:Dinner at Chic Restaurant.
+DESCRIPTION:Dinner at Chic Restaurant. You can order in advance and let us know your choice so you don’t have to wait for so long. Venue: Chic Restaurant\, 10th floor\, MGallery Hotel
 LOCATION:Chic Restaurant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117672857-7-act-1-0-5kk15u2r@pinetreesw.com
-SUMMARY:Checkout and Departure
+DTSTAMP:20260215T230813Z
+UID:stop-1771196728634-7-act-1-0-mt6h37r0@pinetreesw.com
+SUMMARY:Check out and Depart for Hanoi
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260214T090000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260214T100000
-DESCRIPTION:Meet at the lobby\; Hotel check out\; Depart for Hanoi.
-LOCATION:MGallery Sapa Hotel
+DTEND;TZID=Asia/Ho_Chi_Minh:20260214T150000
+DESCRIPTION:Breakfast on your own at MGallery Sapa Hotel. Meet at the lobby\; Hotel check out\; Depart for Hanoi (6-hour drive) with stop resting on route. Lunch boxes will be prepared en route.
+LOCATION:Hotel de la Coupole - MGallery Sapa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-stay-qaqxppmk@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-stay-i4f8ljhn@pinetreesw.com
 SUMMARY:Hanoi
-DESCRIPTION:4 days in Hanoi staying at the Apricot Hotel.
+DESCRIPTION:A multi-day stay at the Apricot Hotel featuring cultural tours and Tet New Year's Eve celebrations.
 LOCATION:Apricot Hotel
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260218
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-0-0-wkw5qx1g@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-0-0-hrjpx17k@pinetreesw.com
 SUMMARY:Apricot Hotel Check-in
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260214T160000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260214T170000
-DESCRIPTION:Check-in at the Apricot Hotel.
+DESCRIPTION:Check-in at the hotel. Booking confirmation: SGN-FT2-32SGN16-MS.THUANH.USA-020226.
 LOCATION:Apricot Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-0-1-9n335wj0@pinetreesw.com
-SUMMARY:Personal Private Valentine Dinner
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-0-1-0lel31cu@pinetreesw.com
+SUMMARY:Valentine Dinner
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260214T180000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260214T190000
-DESCRIPTION:A personal private Valentine dinner. [Restaurants List](https://docs.google.com/document/d/1ooENv907HwhP-z1ojRuds9KBHWR-5n8n2gTxv-LPlfk/edit?tab=t.0)
+DESCRIPTION:Personal private Valentine dinner with your companion. Those who want to have dinner with Kien are welcome to do so.
 LOCATION:Hanoi
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-1-0-i4lhjpcm@pinetreesw.com
-SUMMARY:Ho Chi Minh Mausoleum and Tran Quoc Pagoda
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-0-ub3i826p@pinetreesw.com
+SUMMARY:Cultural Tour: Mausoleum and Pagoda
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260215T100000
-DESCRIPTION:Visit Ho Chi Minh Mausoleum and Tran Quoc Pagoda.
+DESCRIPTION:Breakfast on your own at Apricot Hotel. Meet at the lobby at 9 AM\; Depart for Ho Chi Minh Mausoleum and Tran Quoc Pagoda.
 LOCATION:Ho Chi Minh Mausoleum
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-1-1-srqo6frr@pinetreesw.com
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-1-yfw90s4l@pinetreesw.com
 SUMMARY:Lunch at The East Tonkin Restaurant
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T123000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260215T133000
-DESCRIPTION:Enjoy lunch at The East Tonkin Restaurant.
+DESCRIPTION:Lunch featuring Vietnamese food. Address: 2nd floor\, The East Tonkin Restaurant\, 11 Hang Mam Street\, Hoan Kiem Ward\, Hanoi.
 LOCATION:The East Tonkin Restaurant
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-1-2-eh6jgj9a@pinetreesw.com
-SUMMARY:Visit Bat Trang Pottery Village
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-2-blo3eov4@pinetreesw.com
+SUMMARY:Bat Trang Pottery Village Visit
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T133000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260215T143000
-DESCRIPTION:Afternoon visit to Bat Trang Pottery Village.
+DESCRIPTION:Visit to the famous Bat Trang Pottery Village.
 LOCATION:Bat Trang Pottery Village
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-1-3-shfdddei@pinetreesw.com
-SUMMARY:Drinks at Rooftop Bar at Mizumi Restaurant
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T170000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260215T180000
-DESCRIPTION:Afternoon drinks at the rooftop bar at Mizumi Restaurant.
-LOCATION:Mizumi Restaurant
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-1-4-48psywuz@pinetreesw.com
-SUMMARY:Dinner at Mizumi Westlake Restaurant
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T180000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260215T190000
-DESCRIPTION:Dinner at Mizumi Westlake Restaurant.
-LOCATION:Mizumi Westlake Restaurant
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-2-0-8251w4cx@pinetreesw.com
-SUMMARY:Hoa Lo Prison and Temple of Literature
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T090000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260216T100000
-DESCRIPTION:Visit Hoa Lo Prison and Temple of Literature on Tet New Year's Eve.
-LOCATION:Hoa Lo Prison
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-2-1-mpfkda20@pinetreesw.com
-SUMMARY:Lunch at Ming Chinese Restaurant
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T123000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260216T133000
-DESCRIPTION:Lunch at Ming Chinese Restaurant.
-LOCATION:Ming Chinese Restaurant
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-2-2-zedk9qh2@pinetreesw.com
-SUMMARY:Water Puppet Show at Lotus Water Puppet Theater
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T164500
-DTEND;TZID=Asia/Ho_Chi_Minh:20260216T174500
-DESCRIPTION:Attend a water puppet show at Lotus Water Puppet Theater.
-LOCATION:Lotus Water Puppet Theater
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-2-3-iku08677@pinetreesw.com
-SUMMARY:New Year Celebration Dinner and Rooftop Event
-DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T223000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260216T233000
-DESCRIPTION:New Year celebration dinner and rooftop event at Apricot Hotel. [Countdown Dinner Buffet Menu](https://drive.google.com/file/d/1qIJXOTY96mkaY9LV4CVp6-FlmcLx1dWY/view?usp=sharing)
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-3-t2r3y7rg@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T160000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260215T170000
+DESCRIPTION:Return to the hotel to freshen up.
 LOCATION:Apricot Hotel
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T010815Z
-UID:stop-1771117695510-8-act-3-0-msvl2md5@pinetreesw.com
-SUMMARY:Optional Temple Tour and Departure
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-4-um2dz5b4@pinetreesw.com
+SUMMARY:Sunset Drinks at Mizumi
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T170000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260215T180000
+DESCRIPTION:Meet at the lobby\; Depart for drinks at the rooftop bar at Mizumi Restaurant\, with great views of West Lake. Followed by dinner.
+LOCATION:Mizumi Restaurant Rooftop Bar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-5-5hcoppro@pinetreesw.com
+SUMMARY:Dinner at Mizumi Westlake
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T180000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260215T190000
+DESCRIPTION:Dinner at Mizumi Westlake Restaurant (Japanese food). Mizumi is owned by a Stanford MBA that Kien recruited for GSB 15 years ago. Address: Private room VIP2\, 13th Floor\, Tower B - Fraser Suites Hanoi\, 51 Xuan Dieu Street\, Tay Ho Ward\, Ha Noi.
+LOCATION:Mizumi Westlake Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-1-6-g4ekpdvv@pinetreesw.com
+SUMMARY:Return to Hotel
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260215T210000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260215T220000
+DESCRIPTION:Return to the hotel after dinner.
+LOCATION:Apricot Hotel
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-2-0-uzxeafb8@pinetreesw.com
+SUMMARY:Historic Hanoi Tour
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T100000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260216T110000
+DESCRIPTION:Breakfast on your own at Apricot Hotel. 10 AM: Meet at the lobby\; Depart hotel to visit Hoa Lo Prison and Temple of Literature.
+LOCATION:Hoa Lo Prison
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-2-1-v0bgudl2@pinetreesw.com
+SUMMARY:Lunch at Ming Chinese Restaurant
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T123000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260216T133000
+DESCRIPTION:Lunch at Ming Chinese Restaurant (dim sum buffet). Address: 2nd Floor\, Pan Pacific Hotel\, 1 Thanh Nien Road. Tables are reserved under Mr. Kien’s name.
+LOCATION:Ming Chinese Restaurant
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-2-2-icrd5j9v@pinetreesw.com
+SUMMARY:Water Puppet Show (Optional)
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T164500
+DTEND;TZID=Asia/Ho_Chi_Minh:20260216T174500
+DESCRIPTION:Meet at the lobby for those who go to the Water puppet show. Address: Lotus Water Puppet Theater: 16 Le Thai To\, Hoan Kiem Ward\, Hanoi.
+LOCATION:Lotus Water Puppet Theater
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-2-3-zmbfbs68@pinetreesw.com
+SUMMARY:Tet New Year Celebration Buffet
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260216T223000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260216T233000
+DESCRIPTION:Dinner and Special Apricot Hotel rooftop event to welcome Year of the Horse with fireworks at ONE36 Bar\, 10th floor\, Apricot Hotel.
+LOCATION:ONE36 Bar
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-3-0-jc721ibe@pinetreesw.com
+SUMMARY:Optional Temple Tour
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260217T090000
-DTEND;TZID=Asia/Ho_Chi_Minh:20260217T100000
-DESCRIPTION:Optional tour to visit temples around Hanoi followed by hotel check-out and departure.
+DTEND;TZID=Asia/Ho_Chi_Minh:20260217T120000
+DESCRIPTION:Optional tour to visit temples around Hanoi (for the group with flights departing Hanoi after 3 PM). Breakfast on your own at Apricot Hotel prior to the tour.
+LOCATION:Hanoi
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T230813Z
+UID:stop-1771196893047-8-act-3-1-ukile3ws@pinetreesw.com
+SUMMARY:Hotel Check-out and Departure
+DTSTART;TZID=Asia/Ho_Chi_Minh:20260217T120000
+DTEND;TZID=Asia/Ho_Chi_Minh:20260217T130000
+DESCRIPTION:Hotel check-out. Group 1: Departure to the US. Group 2: Departure to Ho Chi Minh City for flight connection to the US.
 LOCATION:Apricot Hotel
 END:VEVENT
 END:VCALENDAR
