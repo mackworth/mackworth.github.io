@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["E8XXXD4S77.com.pinetreesw.watches"],
+        "components": [
+          {
+            "/": "/join",
+            "comment": "Watches assistant pairing link, e.g. /join?c=1234"
+          }
+        ]
+      }
+    ]
+  }
+}
